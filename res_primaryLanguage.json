@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋I'm Kenan Abbak. I'm a software developer🖥️ who likes to learning new things. Currently, I'm working as a back-end developer but I also improve myself on the front-end too. I'm fluent in Django and React. And also I have experience with Elastic search, docker, and git technologies. Besides the software, I like playing and watching chess♟️. I want to improve myself in that area too. I also like playing video games🎮, watching series and movies🎥. If you have a question or just want to play chess don't hesitate to contact me😀.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Flexbox Playground",
+      "startDate": "2021",
+      "description": "I designed a website with react in which the structure of flexbox can be inspected.",
+      "images": ["images/portfolio/flexbox-playground/p1.jpg"],
+      "url": "https://react-flexbox-playground.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      ]
+    },
+    {
+      "title": "Example Website",
+      "startDate": "2021",
+      "description": "Example website created with React/react-styled-components.",
+      "images": [
+        "images/portfolio/example-website/p1.jpg",
+        "images/portfolio/example-website/p2.jpg",
+        "images/portfolio/example-website/p3.jpg"
+      ],
+      "url": "https://react-styled.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Programming Language Korlang",
+      "startDate": "2020",
+      "description": "Korlang is a memory first dynamic language. It is easy to implement but with extra effort it allows you better memory management. It is easy to learn and easy to read. It has dynamic typing, types are associated with values not variables.",
+      "images": ["images/portfolio/korlang/p1.jpg"],
+      "url": "https://github.com/Tebaks/Korlang",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        }
+      ]
+    },
+    {
+      "title": "Dynamic Programming Visualizer",
+      "startDate": "2020",
+      "description": "I create a website to learn and inspect one of the populer problems of dynamic programming called knapsack.",
+      "images": ["images/portfolio/dynamic-programming-visualizer/p1.jpg"],
+      "url": "https://www.kenanabbak.com/Dynamic-Programming-Visualizer/",
+      "technologies": [
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html"
+        }
+      ]
+    },
+    {
+      "title": "Smart Pot Project",
+      "startDate": "2020",
+      "description": "Smart pot is my senior year project. We use microservice architecture and new technologies like Elastic Search, rabbitMQ, Docker.",
+      "images": ["images/portfolio/smart-pot/p1.jpg"],
+      "url": "https://www.kenanabbak.com/Dynamic-Programming-Visualizer/",
+      "technologies": [
+        {
+          "class": "devicon-go-plain",
+          "name": "Golang"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Java Script"
+        }
+      ]
+    },    {
+      "title": "Docker MongoDB Replica Set",
+      "startDate": "2021",
+      "description": "Example docker-compose file for running MongoDB replica set on docker.",
+      "images": ["images/portfolio/mongodb-replica-set/p1.jpg"],
+      "url": "https://github.com/Tebaks/Docker-MongoDB-Replica-Set",
+      "technologies": [
+        {
+          "class": "devicon-bash-plain",
+          "name": "Shell"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Westerops",
+      "title": "Software Developer",
+      "years": "04.2021 - present",
+      "mainTech": ["Django"],
+      "technologies": ["Django", "Elastic Search", "Rest API", "PostgreSQL"]
+    },
+    {
+      "company": "Akdeniz University",
+      "title": "Student",
+      "years": "04.2016 - 05.2021",
+      "mainTech": ["Computer Engineering"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    }
+  ]
+}

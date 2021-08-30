@@ -1,0 +1,136 @@
+{
+  "basic_info": {
+    "description_header": "Merhaba",
+    "description": "👋Ben Kenan Abbak. Ben yeni şeyler öğrenmeyi seven bir yazılım geliştiricisiyim🖥️. Şu anda aktif olarak back-end geliştirici olarak çalışıyorum ama kendimi front-end tarafında da geliştirdim ve geliştirmeye devam ediyorum. Django ve React Güçlü olduğum alanlar ve bunun yanısıra Elastic search, docker ve git teknolojileriyle tecrübe sahibiyim. Yazılımın yanı sıra satranç oynamayı ve izlemeyi seviyorum ♟️. Bu alanda da kendimi geliştirmek istiyorum. Video oyunları🎮 oynamaktan, film🎥 ve dizi izlemekten hoşlanırım. Eğer sorun varsa hatta satranç bile oynamak istersen bana ulaşabilirsin😀.",
+    "section_name": {
+      "about": "Hakkımda",
+      "projects": "Projeler",
+      "skills": "Yetenekler",
+      "experience": "Tecrube"
+    }
+  },
+  "projects": [
+    {
+      "title": "Flexbox Oyun Alanı",
+      "startDate": "2021",
+      "description": "Flexbox yapısının incelenmesi ve daha iyi öğrenilmesi için geliştirdiğim bir oyunalanı.",
+      "images": ["images/portfolio/flexbox-playground/p1.jpg"],
+      "url": "https://react-flexbox-playground.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      ]
+    },
+    {
+      "title": "Örnek Web Sitesi",
+      "startDate": "2021",
+      "description": "React/styled components kullanılarak yapılan örnek bir websitesi.",
+      "images": [
+        "images/portfolio/example-website/p1.jpg",
+        "images/portfolio/example-website/p2.jpg",
+        "images/portfolio/example-website/p3.jpg"
+      ],
+      "url": "https://react-styled.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Programlama Dili Korlang",
+      "startDate": "2020",
+      "description": "Korlang hafıza öncelikli dinamik bir programlama dilidir. Öğrenmesi ve uygulaması kolay ve doğru kullanıldığında iyi bir hafıza yönetimi sağlar.",
+      "images": ["images/portfolio/korlang/p1.jpg"],
+      "url": "https://github.com/Tebaks/Korlang",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        }
+      ]
+    },
+    {
+      "title": "Dynamic Programming Visualizer",
+      "startDate": "2020",
+      "description": "Dinamik programlamanın populer problemlerinden biri olan knapsack probleminin görselleştirilmesi için yaptığım websitesi.",
+      "images": ["images/portfolio/dynamic-programming-visualizer/p1.jpg"],
+      "url": "https://www.kenanabbak.com/Dynamic-Programming-Visualizer/",
+      "technologies": [
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html"
+        }
+      ]
+    },
+    {
+      "title": "Smart Pot Projesi",
+      "startDate": "2020",
+      "description": "Smart Pot bitirme projem için yaptığım aparat ve sosyal medyası ile daha kolay bitki yetiştirmeye yarayan bir projedir. Projede yeni Elastic Search, RabbitMQ, Docker ve NoSQL gibi popular teknolojileri kullanmaya özen gösterdik.",
+      "images": ["images/portfolio/smart-pot/p1.jpg"],
+      "url": "https://www.kenanabbak.com/Dynamic-Programming-Visualizer/",
+      "technologies": [
+        {
+          "class": "devicon-go-plain",
+          "name": "Golang"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Java Script"
+        }
+      ]
+    },
+    {
+      "title": "Docker MongoDB Replica Set",
+      "startDate": "2021",
+      "description": "MongoDB replica setinin docker containerında ayağa kaldırılması için örnek bir docker-compose dosyası.",
+      "images": ["images/portfolio/mongodb-replica-set/p1.jpg"],
+      "url": "https://github.com/Tebaks/Docker-MongoDB-Replica-Set",
+      "technologies": [
+        {
+          "class": "devicon-bash-plain",
+          "name": "Shell"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Westerops",
+      "title": "Yazılım Geliştirici",
+      "years": "04.2021 - günümüz",
+      "mainTech": ["Django"],
+      "technologies": ["Django", "Elastic Search", "Rest API", "PostgreSQL"]
+    },
+    {
+      "company": "Akdeniz Üniversitesi",
+      "title": "Öğrenci",
+      "years": "04.2016 - 05.2021",
+      "mainTech": ["Bilgisayar Mühendisliği"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    }
+  ]
+}
