@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Kenan Abbak",
+      "titles": [ "Software Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Tebaks",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kenanabbak/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "medium",
+          "url": "https://kenanabbak.medium.com/",
+          "class": "fab fa-medium"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
+          "name": "Golang",
+          "class": "devicon-go-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        }
+      ]
+    }
+  }
