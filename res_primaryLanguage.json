@@ -87,7 +87,7 @@
       "startDate": "2020",
       "description": "Smart pot is my senior year project. We use microservice architecture and new technologies like Elastic Search, rabbitMQ, Docker.",
       "images": ["images/portfolio/smart-pot/p1.jpg"],
-      "url": "https://www.kenanabbak.com/Dynamic-Programming-Visualizer/",
+      "url": "https://github.com/Smart-Pot",
       "technologies": [
         {
           "class": "devicon-go-plain",

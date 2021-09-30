@@ -87,7 +87,7 @@
       "startDate": "2020",
       "description": "Smart Pot bitirme projem için yaptığım aparat ve sosyal medyası ile daha kolay bitki yetiştirmeye yarayan bir projedir. Projede yeni Elastic Search, RabbitMQ, Docker ve NoSQL gibi popular teknolojileri kullanmaya özen gösterdik.",
       "images": ["images/portfolio/smart-pot/p1.jpg"],
-      "url": "https://www.kenanabbak.com/Dynamic-Programming-Visualizer/",
+      "url": "https://github.com/Smart-Pot",
       "technologies": [
         {
           "class": "devicon-go-plain",
